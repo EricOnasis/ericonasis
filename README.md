@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👯 I’m looking to collaborate on **Network Automation / Engineering Projects**
+- 👯 I’m looking to collaborate on **Network Automation / Network Engineering Projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
 - 💬 Ask me about **Networks**
 
-- 📫 How to reach me **onasis.tech**
+- 📫 How to reach me **https://onasis.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
