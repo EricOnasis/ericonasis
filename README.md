@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eric Onasis</h1>
+<h1 align="center">Hi 👋, I'm Eric Odhiambo</h1>
 <h3 align="center">I'm a Network Engineer currently working on Automation</h3>
 
 - 🔭 I’m currently working on **MikroTik Automation**
