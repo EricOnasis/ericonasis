@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Networks**
 
-- 📫 How to reach me **https://onasis.tech**
+📫 How to reach me <a href="https://onasis.tech" target="_blank">https://onasis.tech</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
