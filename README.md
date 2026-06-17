@@ -25,9 +25,9 @@ I started in networking — routing, switching, ISP infrastructure — and moved
 
 <div align="center">
 
-[![Onasis Tech Pay](https://img.shields.io/badge/Onasis_Tech_Pay-M--Pesa_STK_Aggregation-0ea5e9?style=for-the-badge&logo=stripe&logoColor=white)](https://pay.onasis.tech)&nbsp;
-[![Onasis Tech Notify](https://img.shields.io/badge/Onasis_Tech_Notify-WhatsApp_Messaging_API-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://notify.onasis.tech)&nbsp;
-[![Onasis Tech ACS](https://img.shields.io/badge/Onasis_Tech_ACS-TR--069_CPE_Management-6366f1?style=for-the-badge&logo=cisco&logoColor=white)](https://portal.onasis.tech)
+<a href="https://pay.onasis.tech" target="_blank"><img src="https://img.shields.io/badge/Onasis_Tech_Pay-M--Pesa_STK_Aggregation-0ea5e9?style=for-the-badge&logo=stripe&logoColor=white" /></a>&nbsp;
+<a href="https://notify.onasis.tech" target="_blank"><img src="https://img.shields.io/badge/Onasis_Tech_Notify-WhatsApp_Messaging_API-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
+<a href="https://portal.onasis.tech" target="_blank"><img src="https://img.shields.io/badge/Onasis_Tech_ACS-TR--069_CPE_Management-6366f1?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
 </div>
 
