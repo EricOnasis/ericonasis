@@ -25,9 +25,9 @@ I started in networking — routing, switching, ISP infrastructure — and moved
 
 <div align="center">
 
-[![Onasis Pay](https://img.shields.io/badge/Onasis_Pay-M--Pesa_STK_Aggregation-0ea5e9?style=for-the-badge&logo=stripe&logoColor=white)](https://pay.onasis.tech)&nbsp;
-[![Onasis Notify](https://img.shields.io/badge/Onasis_Notify-WhatsApp_Messaging_API-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://notify.onasis.tech)&nbsp;
-[![Onasis ACS](https://img.shields.io/badge/Onasis_ACS-TR--069_CPE_Management-6366f1?style=for-the-badge&logo=cisco&logoColor=white)](https://portal.onasis.tech)
+[![Onasis Tech Pay](https://img.shields.io/badge/Onasis_Tech_Pay-M--Pesa_STK_Aggregation-0ea5e9?style=for-the-badge&logo=stripe&logoColor=white)](https://pay.onasis.tech)&nbsp;
+[![Onasis Tech Notify](https://img.shields.io/badge/Onasis_Tech_Notify-WhatsApp_Messaging_API-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://notify.onasis.tech)&nbsp;
+[![Onasis Tech ACS](https://img.shields.io/badge/Onasis_Tech_ACS-TR--069_CPE_Management-6366f1?style=for-the-badge&logo=cisco&logoColor=white)](https://portal.onasis.tech)
 
 </div>
 
