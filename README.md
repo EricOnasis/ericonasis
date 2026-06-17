@@ -1,30 +1,98 @@
-<h1 align="center">Hi 👋, I'm Eric Odhiambo</h1>
-<h3 align="center">I'm a Network Engineer currently working on Automation</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Eric%20Odhiambo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Network%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=56&descSize=20&descColor=dde9ff" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericonasis&label=Profile%20views&color=0e75b6&style=flat" alt="ericonasis" /> </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=640&lines=Building+fintech+%26+messaging+APIs+in+Kenya;M-Pesa+integrations+%7C+WhatsApp+APIs;ISP+billing+%7C+TR-069+CPE+management;ALX+%2F+Holberton+School+Alumnus" alt="Typing SVG" />
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ericonasis&label=Profile+views&color=6366f1&style=flat-square" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericonasis" alt="ericonasis" /></a> </p>
+---
 
-- 🔭 I’m currently working on **MikroTik Automation**
+### About Me
 
-- 🌱 I’m currently learning **Sofware Engineering at ALX/Holberton School**
+I started in networking — routing, switching, ISP infrastructure — and moved into full-stack development, building production SaaS products that handle real-money M-Pesa transactions and WhatsApp messaging for businesses across Kenya. I still handle network projects and bring both lenses to every system I build.
 
-- 👯 I’m looking to collaborate on **Network Automation / Network Engineering Projects**
+- 🎓 Alumnus, **ALX / Holberton School** — Software Engineering Programme  
+- 🛠 Other work: **ISP billing & automation system**, MikroTik network automation tooling  
+- 💬 Ask me about **M-Pesa integrations, WhatsApp APIs, TR-069/CWMP, MikroTik, or ISP systems**  
+- 📫 **info@onasis.tech** · [onasis.tech](https://onasis.tech)
 
-- 🤝 I’m looking for help with **DevOps**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/EricOnasis](https://github.com/EricOnasis)
+### Products
 
-- 💬 Ask me about **Networks**
+<div align="center">
 
-- 📫 How to reach me **[https://onasis.tech]**
+[![Onasis Pay](https://img.shields.io/badge/Onasis_Pay-M--Pesa_STK_Aggregation-0ea5e9?style=for-the-badge&logo=stripe&logoColor=white)](https://pay.onasis.tech)&nbsp;
+[![Onasis Notify](https://img.shields.io/badge/Onasis_Notify-WhatsApp_Messaging_API-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://notify.onasis.tech)&nbsp;
+[![Onasis ACS](https://img.shields.io/badge/Onasis_ACS-TR--069_CPE_Management-6366f1?style=for-the-badge&logo=cisco&logoColor=white)](https://portal.onasis.tech)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericonasis&show_icons=true&locale=en&layout=compact" alt="ericonasis" /></p>
+### Languages & Tools
 
+<div align="center">
+
+**Backend**&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+
+<br/><br/>
+
+**Frontend**&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+
+<br/><br/>
+
+**Databases & Cache**&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+
+<br/><br/>
+
+**Infrastructure & DevOps**&emsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.microsoft.com/en-us/sql-server" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40" height="40"/>
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericonasis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericonasis&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ericonasis&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" width="100%" />
