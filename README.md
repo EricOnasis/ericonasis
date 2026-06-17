@@ -72,7 +72,7 @@ I started in networking — routing, switching, ISP infrastructure — and moved
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.microsoft.com/en-us/sql-server" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40" height="40"/>
